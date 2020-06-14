@@ -1,0 +1,23 @@
+h1{
+	font-family: 'Noto Serif', serif;
+	 background: url(file:///C:/Users/Remy/Documents/assorted-salads-on-bowls-1640773.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border: right;
+}
+
+.btn{
+	font-weight:  700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+}
+.btn-primary{
+	background-color: #DA7134;
+	border-color: #DA7134;
+}
+.btn-xl{
+	padding:1rem 5rem;
